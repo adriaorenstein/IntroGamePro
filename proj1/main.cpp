@@ -29,7 +29,7 @@ const int WINDOW_WIDTH = 640,
           WINDOW_HEIGHT = 480;
 
 const float BG_RED = 0.1922f,
-            BG_BLUE = 0.9000f,
+            BG_BLUE = 0.6000f,
             BG_GREEN = 0.4000f,
             BG_OPACITY = 1.0f;
 
